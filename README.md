@@ -27,7 +27,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://samirpaul1.github.io/WeatherApp/) :point_left:
+[Live Demo Link](file:///C:/Users/Ankit%20Karmakar/Desktop/project/Weather/dist/index.html) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
